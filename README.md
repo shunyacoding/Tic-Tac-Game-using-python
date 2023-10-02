@@ -1,0 +1,2 @@
+# djan
+django project
